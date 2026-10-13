@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Прыгающий слон</string>
+    <string name="tap_hint">Нажми на слона!</string>
+    <string name="elephant_description">Слон. Нажмите, чтобы он подпрыгнул</string>
+</resources>
